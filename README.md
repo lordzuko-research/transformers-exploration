@@ -3,4 +3,4 @@ Code for exploration of fundamentals and capabilities of various transformer bas
 
 ## Vanilla Transformers
 
-[](https://github.com/lordzuko-research/transformers-exploration/blob/main/imgs/survey_transfomers_1.jpg?raw=True)
+[](https://github.com/lordzuko-research/transformers-exploration/blob/main/imgs/survey_transfomers_1.jpg)
